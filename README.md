@@ -1,2 +1,2 @@
 # yytSpider
-a sinple spider for practise
+a simple spider for practise
